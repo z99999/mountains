@@ -12,9 +12,9 @@ body {
 .text {
     margin:4vh auto;
     color:darken($color, 44%);
-    font-size: 30px;
+    font-size: 35px;
     text-align: center;
-    max-width: 650px;
+    max-width: 750px;
     height:90px;
     line-height: 90px;
     background-color: darken($color, 60%);
@@ -55,33 +55,6 @@ body {
     from { transform: rotate(355deg) translateX(780px) rotate(-355deg); }
     to   { transform: rotate(190deg) translateX(780px) rotate(-190deg);}
 }
-
-
-
-
-//0% {transform:translate(0, 0);}
-//    10% {transform: translate(-140px,-30px)}
-//    20% {transform: translate(-280px,-70px)}
-//    30% {transform: translate(-420px,-120px)}
-//    40% {transform: translate(-560px,-190px)}
-//    50% {transform: translate(-700px,-250px)}
-//    60% {transform: translate(-840px,-190px)}v
-//    70% {transform: translate(-980px,-120px)}
-//    80% {transform: translate(-1120px,-70px)}
-//    90% {transform: translate(-1260px,-30px)}
-//    100% {transform:translate(-1400px,-0);}
-
-//5% {transform: translate(-40px,-20px)}
-//    10% {transform: translate(-80px,-40px)}
-//    15% {transform: translate(-120px,-60px)}
-//    20% {transform: translate(-160px,-80px)}
-//    25% {transform: translate(-200px,-100px)}
-//    30% {transform: translate(-240px,-120px)}
-//    35% {transform: translate(-280px,-140px)}
-//    40% {transform: translate(-320px,-160px)}
-//    45% {transform: translate(-360px,-180px)}
-//    50% {transform: translate(-400px,-200px)}
-//    55% {transform: translate(-440px,-220px)}
 
 .scene .element {
     position: absolute;
