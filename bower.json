@@ -1,0 +1,18 @@
+{
+  "name": "2.RWD",
+  "homepage": "https://github.com/z99999/WAR_FRO_S_09_SASS_RWD",
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery-ui": "^1.12.0",
+    "jquery": "^3.1.0"
+  }
+}
